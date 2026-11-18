@@ -1,0 +1,1221 @@
+{
+ "source": "https://shoot.artifacts.server.begue.cc",
+ "fetched": "2026-11-17",
+ "rules": [
+  "Shots last 1 to 1.5 s. Inserts last 0.3 to 1 s.",
+  "The first 2 s are never a plain car shot.",
+  "The best moving clip plays two or three times.",
+  "Cuts hide in motion. A whip, a car filling the lens, a headlight flash.",
+  "The camera sits between the ground and knee height.",
+  "All nine are framed 16:9, then letterboxed or rotated for the phone."
+ ],
+ "shots": {
+  "s-canopy": {
+   "title": "Canopy tilt-down onto both cars",
+   "block": "static",
+   "camera": "S5 Ronin",
+   "lens": "24 mm",
+   "move": "tilt down, walk in",
+   "car": "parked",
+   "tip": "The opener. Shoot one in reverse before you leave the forest."
+  },
+  "s-duo": {
+   "title": "Both cars, front 3/4",
+   "block": "static",
+   "camera": "S5 handheld",
+   "lens": "50-70 f/4",
+   "move": "locked",
+   "car": "parked, lights",
+   "tip": "Stand 10 to 15 m back so the cars stack together."
+  },
+  "s-headon": {
+   "title": "Head-on, low",
+   "block": "static",
+   "camera": "S5 Ronin",
+   "lens": "50-70 f/2.8",
+   "move": "slow push in",
+   "car": "parked, lights",
+   "tip": "Dead square, middle of the road, tarmac in the foreground."
+  },
+  "s-high": {
+   "title": "Head-on from above",
+   "block": "static",
+   "camera": "S5 handheld",
+   "lens": "35-50 mm",
+   "move": "locked",
+   "car": "parked, lights",
+   "tip": "Arms up or stand on a sill. Turn the CPL until the windscreen clears."
+  },
+  "s-front34": {
+   "title": "Front 3/4 past leaves, long lens",
+   "block": "static",
+   "camera": "S5 on ground",
+   "lens": "100-200 f/5",
+   "move": "locked",
+   "car": "parked",
+   "tip": "Go 20 to 30 m back. A blurred branch covers one edge."
+  },
+  "s-side": {
+   "title": "Side profile among the trunks",
+   "block": "static",
+   "camera": "S5 on ground",
+   "lens": "100-150 mm",
+   "move": "locked",
+   "car": "parked",
+   "tip": "Car in the lower third, square to the camera."
+  },
+  "s-rear34": {
+   "title": "Rear 3/4 through foliage",
+   "block": "static",
+   "camera": "S5 on ground",
+   "lens": "100-200 mm",
+   "move": "locked",
+   "car": "parked, tail lights",
+   "tip": "Three of the reels end on this frame."
+  },
+  "s-rear": {
+   "title": "Dead rear, push in",
+   "block": "static",
+   "camera": "S5 Ronin",
+   "lens": "35-70 mm",
+   "move": "slow push in",
+   "car": "parked, tail lights",
+   "tip": "Then one take with both cars side by side."
+  },
+  "s-glide": {
+   "title": "Glide along the flank to the nose",
+   "block": "static",
+   "camera": "S5 Ronin",
+   "lens": "24-35 mm",
+   "move": "walk and arc",
+   "car": "parked, lights",
+   "tip": "Start at the rear door, 50 cm from the paint."
+  },
+  "s-reveal": {
+   "title": "Slide past one car to reveal the other",
+   "block": "static",
+   "camera": "S5 Ronin",
+   "lens": "24-35 f/2.8",
+   "move": "slide sideways",
+   "car": "parked",
+   "tip": "The first car's wing fills the frame, out of focus."
+  },
+  "s-plate": {
+   "title": "Locked frame with empty space",
+   "block": "static",
+   "camera": "S5 on a bag",
+   "lens": "50-70 mm",
+   "move": "locked",
+   "car": "parked",
+   "tip": "For the phone-interface trend only. Car on the right two thirds."
+  },
+  "d-wheel": {
+   "title": "Wheel and centre cap",
+   "block": "detail",
+   "camera": "S5 handheld",
+   "lens": "70 f/2.8",
+   "move": "locked",
+   "car": "parked",
+   "tip": "Logo upright. Whole wheel, then the cap."
+  },
+  "d-badge": {
+   "title": "Badge",
+   "block": "detail",
+   "camera": "S5 handheld",
+   "lens": "70 f/4, close",
+   "move": "locked",
+   "car": "parked",
+   "tip": "Roundel and M240i script. GTI badge and red stripe. Wipe first."
+  },
+  "d-light": {
+   "title": "Headlight, tilted frame",
+   "block": "detail",
+   "camera": "S5 handheld",
+   "lens": "50-70 f/2.8",
+   "move": "locked, 15 deg roll",
+   "car": "parked, lights",
+   "tip": "Expose for the LEDs. Film them switching on too."
+  },
+  "d-grille": {
+   "title": "Grille from the ground",
+   "block": "detail",
+   "camera": "S5 on ground",
+   "lens": "50-70 f/2.8",
+   "move": "locked",
+   "car": "parked",
+   "tip": "Head-on from the tarmac, then side-on along the grille."
+  },
+  "d-tail": {
+   "title": "Tail light and exhaust",
+   "block": "detail",
+   "camera": "S5 Ronin",
+   "lens": "28-50 mm",
+   "move": "slow slide",
+   "car": "parked, tail lights",
+   "tip": "Close to the rear corner."
+  },
+  "d-line": {
+   "title": "Spoiler or boot line",
+   "block": "detail",
+   "camera": "S5 Ronin",
+   "lens": "70 f/2.8",
+   "move": "slow slide",
+   "car": "parked",
+   "tip": "Forest soft behind."
+  },
+  "d-mirror": {
+   "title": "Mirror and shoulder line",
+   "block": "detail",
+   "camera": "S5 handheld",
+   "lens": "35-50 f/2.8",
+   "move": "locked",
+   "car": "parked",
+   "tip": "Beside the front door, looking forward."
+  },
+  "d-leaves": {
+   "title": "Leaves on the bonnet",
+   "block": "detail",
+   "camera": "S5 handheld",
+   "lens": "70 f/2.8",
+   "move": "slow glide",
+   "car": "parked",
+   "tip": "Dry, clean leaves. Lift them off, never wipe."
+  },
+  "d-whip": {
+   "title": "Whip-pan ends on four clips",
+   "block": "detail",
+   "camera": "S5 handheld",
+   "lens": "any",
+   "move": "hold 2 s, whip right",
+   "car": "parked",
+   "tip": "Start the next clip with a whip from the left. Same direction every time."
+  },
+  "d-broll": {
+   "title": "Forest without cars",
+   "block": "detail",
+   "camera": "S5 handheld",
+   "lens": "100-400 mm",
+   "move": "locked",
+   "car": "none",
+   "tip": "Canopy, falling leaves, a road sign, the empty road."
+  },
+  "c-start": {
+   "title": "Finger on the start button",
+   "block": "cockpit",
+   "camera": "S5 handheld",
+   "lens": "70 f/2.8",
+   "move": "locked",
+   "car": "parked",
+   "tip": "From the passenger side. It lasts 0.3 s in the edit."
+  },
+  "c-gear": {
+   "title": "Hand on the gear selector",
+   "block": "cockpit",
+   "camera": "S5 handheld",
+   "lens": "50-70 f/2.8",
+   "move": "locked",
+   "car": "parked",
+   "tip": "The hand moves the lever to D or S."
+  },
+  "c-cluster": {
+   "title": "Dials waking up",
+   "block": "cockpit",
+   "camera": "S5 handheld",
+   "lens": "50-70 f/2.8",
+   "move": "locked",
+   "car": "parked, one rev",
+   "tip": "Start animation, then the needle rising."
+  },
+  "c-mode": {
+   "title": "Sport button",
+   "block": "cockpit",
+   "camera": "S5 handheld",
+   "lens": "70 f/2.8",
+   "move": "locked",
+   "car": "parked",
+   "tip": "Finger on the switch, then the screen in Sport."
+  },
+  "c-pedal": {
+   "title": "Foot on the pedals",
+   "block": "cockpit",
+   "camera": "P3 on the mat",
+   "lens": "20 mm",
+   "move": "locked",
+   "car": "parked",
+   "tip": "Parked only. Nothing loose in the footwell on the move."
+  },
+  "c-paddle": {
+   "title": "Finger on a paddle",
+   "block": "cockpit",
+   "camera": "S5 handheld",
+   "lens": "70 f/2.8",
+   "move": "locked",
+   "car": "parked",
+   "tip": "Right paddle, the rest out of focus."
+  },
+  "c-hands": {
+   "title": "Hands on the wheel, driving",
+   "block": "cockpit",
+   "camera": "P3 on headrest",
+   "lens": "20 mm",
+   "move": "fixed to car",
+   "car": "50-80 km/h",
+   "tip": "Or a passenger holds it. Trees streak past the side window."
+  },
+  "m-sweep": {
+   "title": "Hook, leaves kicked onto the road",
+   "block": "move",
+   "camera": "Phone or P3",
+   "lens": "wide",
+   "move": "tilt up to the road",
+   "car": "none",
+   "tip": "Your own feet pushing the pile. Shaky on purpose."
+  },
+  "m-wipe": {
+   "title": "Camera on the ground, car wipes the frame",
+   "block": "move",
+   "camera": "P3 on ground",
+   "lens": "20 mm",
+   "move": "locked",
+   "car": "40-50 km/h",
+   "tip": "Car passes 1 to 2 m away, once each way. Press record and walk off. The car filling the lens is your cut."
+  },
+  "m-lane": {
+   "title": "Empty lane, car sweeps past and away",
+   "block": "move",
+   "camera": "S5 on ground",
+   "lens": "24-35 mm",
+   "move": "locked",
+   "car": "40-50 km/h",
+   "tip": "Record 3 s of empty road first. The car enters from behind the camera. One reel uses this clip three times."
+  },
+  "m-approach": {
+   "title": "Head-on approach, long lens",
+   "block": "move",
+   "camera": "S5 handheld",
+   "lens": "200-400 mm",
+   "move": "locked, AF tracking",
+   "car": "50 km/h, lights",
+   "tip": "Stand off the road at the end of the straight. Let the car drive out of focus."
+  },
+  "m-leafrun": {
+   "title": "Low head-on run through leaves",
+   "block": "move",
+   "camera": "P3 rear bumper",
+   "lens": "20 mm",
+   "move": "fixed, facing back",
+   "car": "30 km/h",
+   "tip": "Subject follows 2 to 3 lengths behind. Keep the gap and crop in the edit."
+  },
+  "m-wheelcam": {
+   "title": "Wheel cam",
+   "block": "move",
+   "camera": "P3 low on door",
+   "lens": "20 mm",
+   "move": "fixed, facing forward",
+   "car": "50-80 km/h",
+   "tip": "Behind the front wheel, sky in the top half. Second spot behind the rear wheel."
+  },
+  "m-chase": {
+   "title": "Windscreen chase",
+   "block": "move",
+   "camera": "P3 on dash",
+   "lens": "20 mm",
+   "move": "fixed to car",
+   "car": "2 s behind",
+   "tip": "Top of the dash in frame. Clean the windscreen inside."
+  },
+  "m-pan": {
+   "title": "Roadside pan through the bend",
+   "block": "move",
+   "camera": "S5 handheld",
+   "lens": "24-35 mm",
+   "move": "pan with the car",
+   "car": "40-60 km/h",
+   "tip": "Inside of the bend, well off the road. Once each way. Keep panning after it passes."
+  },
+  "m-legs": {
+   "title": "Hook, legs on the verge then whip to the car",
+   "block": "move",
+   "camera": "P3 handheld",
+   "lens": "20 mm",
+   "move": "hold 2 s, whip",
+   "car": "50 km/h",
+   "tip": "Then 3 s of the legs alone. As the last shot, it makes the reel loop."
+  },
+  "h-rear34": {
+   "title": "Rear 3/4 roller",
+   "block": "hwy",
+   "camera": "P3 low on front door",
+   "lens": "20 mm",
+   "move": "fixed, forward and across",
+   "car": "next lane, 1 length ahead",
+   "tip": "Both cars hold one steady speed."
+  },
+  "h-front": {
+   "title": "Head-on roller",
+   "block": "hwy",
+   "camera": "P3 rear bumper",
+   "lens": "20 mm",
+   "move": "fixed, facing back",
+   "car": "same lane, lights",
+   "tip": "Keep a normal gap and crop in the edit."
+  },
+  "h-side": {
+   "title": "Side-on roller",
+   "block": "hwy",
+   "camera": "P3 low on door",
+   "lens": "20 mm",
+   "move": "fixed, sideways",
+   "car": "next lane, level",
+   "tip": "Not in the reels. The mount is already on."
+  },
+  "h-wheel": {
+   "title": "Wheel cam at speed",
+   "block": "hwy",
+   "camera": "P3 low on door",
+   "lens": "20 mm",
+   "move": "fixed, facing forward",
+   "car": "cruise",
+   "tip": "Check mount and tether. Stop if the gimbal shakes."
+  },
+  "h-convoy": {
+   "title": "Windscreen chase on the highway",
+   "block": "hwy",
+   "camera": "P3 on dash",
+   "lens": "20 mm",
+   "move": "fixed to car",
+   "car": "one lane across",
+   "tip": "Other car ahead and one lane over."
+  },
+  "h-bridge": {
+   "title": "Both cars from a bridge",
+   "block": "hwy",
+   "camera": "S5 handheld",
+   "lens": "300-400 mm",
+   "move": "locked, then pan",
+   "car": "side by side, lights",
+   "tip": "With two of you, one car passes at a time."
+  },
+  "g-hero": {
+   "title": "Backlit rear 3/4 roller",
+   "block": "gold",
+   "camera": "P3 low on front door",
+   "lens": "20 mm",
+   "move": "fixed, forward and across",
+   "car": "next lane, into the sun",
+   "tip": "The hero shot, in the last 45 minutes. Sun just outside the frame. Expose for the sky."
+  },
+  "g-headon": {
+   "title": "Low head-on, sun behind the car",
+   "block": "gold",
+   "camera": "S5 on ground",
+   "lens": "35-70 f/2.8",
+   "move": "locked",
+   "car": "parked, lights",
+   "tip": "Hide the sun behind the roof or the trees. No CPL, you want the flare."
+  },
+  "g-duo": {
+   "title": "Both cars rear 3/4, low sun",
+   "block": "gold",
+   "camera": "S5 handheld",
+   "lens": "35-50 mm",
+   "move": "locked",
+   "car": "parked, tail lights",
+   "tip": "Lay-by with an open view west."
+  },
+  "g-dust": {
+   "title": "Long-lens pan through backlit dust",
+   "block": "gold",
+   "camera": "S5 handheld",
+   "lens": "100-200 mm",
+   "move": "pan with the car",
+   "car": "brisk pull-away",
+   "tip": "Dusty or leafy lay-by, sun behind the car."
+  },
+  "g-close": {
+   "title": "Closing shot, leaf whoosh and the car leaves",
+   "block": "gold",
+   "camera": "S5 on ground",
+   "lens": "35-50 mm",
+   "move": "locked",
+   "car": "drives away, tail lights",
+   "tip": "Someone throws leaves across the lens. As they clear, the car is already leaving. Each car, then both."
+  },
+  "g-blue": {
+   "title": "After sunset, front 3/4 with lights",
+   "block": "gold",
+   "camera": "S5 on a bag",
+   "lens": "24-50 f/2.8",
+   "move": "locked",
+   "car": "parked, lights",
+   "tip": "The 15 minutes after sunset."
+  },
+  "g-silhouette": {
+   "title": "Side profile against the sky",
+   "block": "gold",
+   "camera": "S5 on ground",
+   "lens": "100-200 mm",
+   "move": "locked",
+   "car": "parked",
+   "tip": "Not in the reels. Expose for the sky."
+  }
+ },
+ "cuts": [
+  {
+   "name": "Autumn duo, 20 s",
+   "after": "@tobis__view and @zdelcampe",
+   "ids": [
+    "m-sweep",
+    "m-wipe",
+    "m-lane",
+    "m-approach",
+    "s-duo",
+    "d-light",
+    "s-headon",
+    "m-leafrun",
+    "g-duo",
+    "g-close"
+   ],
+   "label": {}
+  },
+  {
+   "name": "Start-up to sunset, 20 s",
+   "after": "@pafleurywk and @dcexposures",
+   "ids": [
+    "c-start",
+    "c-gear",
+    "c-cluster",
+    "c-mode",
+    "g-hero",
+    "d-wheel",
+    "m-wheelcam",
+    "c-hands",
+    "m-chase",
+    "m-pan",
+    "h-front",
+    "g-headon",
+    "g-hero",
+    "g-close"
+   ],
+   "label": {
+    "4": "1 s tease"
+   }
+  },
+  {
+   "name": "One car on the beat, 12 s",
+   "after": "@shotsbyhash, @jasevgarage and @ramsay.visuals",
+   "ids": [
+    "s-glide",
+    "d-grille",
+    "d-tail",
+    "d-wheel",
+    "d-badge",
+    "d-leaves",
+    "d-whip",
+    "s-side",
+    "s-rear34"
+   ],
+   "label": {}
+  }
+ ],
+ "references": {
+  "tobis": {
+   "who": "@tobis__view",
+   "url": "https://www.instagram.com/reel/DffMnTDthtu/",
+   "name": "Cyclists hate this trick",
+   "pace": "4 s hook, then 9 shots of 1 to 2.5 s",
+   "steal": [
+    "Phone clip of the trick as the hook, the film as the payoff",
+    "Camera on the ground, car wipes the frame",
+    "Leaf whoosh into the last shot"
+   ],
+   "shots": [
+    {
+     "n": "w30",
+     "t": 0.3,
+     "slow": false,
+     "is": "m-sweep"
+    },
+    {
+     "n": "2",
+     "t": 4.17,
+     "slow": false,
+     "is": "m-wipe"
+    },
+    {
+     "n": "3",
+     "t": 5.02,
+     "slow": false,
+     "is": "m-wipe"
+    },
+    {
+     "n": "4",
+     "t": 5.97,
+     "slow": false,
+     "is": "m-lane"
+    },
+    {
+     "n": "5",
+     "t": 7.52,
+     "slow": false,
+     "is": "m-approach"
+    },
+    {
+     "n": "6",
+     "t": 10.27,
+     "slow": false,
+     "is": "s-duo"
+    },
+    {
+     "n": "7",
+     "t": 11.67,
+     "slow": false,
+     "is": "d-light"
+    },
+    {
+     "n": "8",
+     "t": 12.67,
+     "slow": false,
+     "is": "s-high"
+    },
+    {
+     "n": "9",
+     "t": 15.27,
+     "slow": false,
+     "is": "g-duo"
+    },
+    {
+     "n": "10",
+     "t": 17.67,
+     "slow": false,
+     "is": "g-close"
+    }
+   ]
+  },
+  "hash1": {
+   "who": "@shotsbyhash",
+   "url": "https://www.instagram.com/reel/DfNqDrdOdMA/",
+   "name": "bmw and the rest",
+   "pace": "12 shots in 14.5 s",
+   "steal": [
+    "Wheel cam, used three times",
+    "Low head-on tracking shot",
+    "Two long-lens parked frames to finish"
+   ],
+   "shots": [
+    {
+     "n": "1",
+     "t": 0.07,
+     "slow": false,
+     "is": "m-approach"
+    },
+    {
+     "n": "2",
+     "t": 0.97,
+     "slow": false,
+     "is": "m-wheelcam"
+    },
+    {
+     "n": "3",
+     "t": 2.15,
+     "slow": false,
+     "is": "h-front"
+    },
+    {
+     "n": "4",
+     "t": 4.15,
+     "slow": false,
+     "is": "d-grille"
+    },
+    {
+     "n": "5",
+     "t": 5.02,
+     "slow": false,
+     "is": "d-leaves"
+    },
+    {
+     "n": "7",
+     "t": 6.67,
+     "slow": false,
+     "is": "m-pan"
+    },
+    {
+     "n": "8",
+     "t": 8.3,
+     "slow": false,
+     "is": "h-front"
+    },
+    {
+     "n": "9",
+     "t": 9.3,
+     "slow": false,
+     "is": "h-wheel"
+    },
+    {
+     "n": "10",
+     "t": 10.32,
+     "slow": false,
+     "is": "m-wheelcam"
+    },
+    {
+     "n": "11",
+     "t": 12.32,
+     "slow": false,
+     "is": "s-front34"
+    },
+    {
+     "n": "12",
+     "t": 13.32,
+     "slow": false,
+     "is": "s-rear34"
+    }
+   ]
+  },
+  "hash2": {
+   "who": "@shotsbyhash",
+   "url": "https://www.instagram.com/reel/DfVmJ-aIFT5/",
+   "name": "bmw m2",
+   "pace": "11 shots in 11.9 s",
+   "steal": [
+    "Glide along the flank as the opener",
+    "Car parked, the camera does the moving",
+    "Three 0.3 s detail inserts mid-reel"
+   ],
+   "shots": [
+    {
+     "n": "1",
+     "t": 0.07,
+     "slow": false,
+     "is": "s-glide"
+    },
+    {
+     "n": "2",
+     "t": 2.57,
+     "slow": false,
+     "is": "s-headon"
+    },
+    {
+     "n": "3",
+     "t": 3.74,
+     "slow": false,
+     "is": "m-leafrun"
+    },
+    {
+     "n": "4",
+     "t": 4.83,
+     "slow": true,
+     "is": "d-leaves"
+    },
+    {
+     "n": "5",
+     "t": 5.24,
+     "slow": true,
+     "is": "d-leaves"
+    },
+    {
+     "n": "8",
+     "t": 7.24,
+     "slow": false,
+     "is": "s-side"
+    },
+    {
+     "n": "9",
+     "t": 8.4,
+     "slow": false,
+     "is": "d-wheel"
+    },
+    {
+     "n": "10",
+     "t": 9.57,
+     "slow": false,
+     "is": "s-rear34"
+    },
+    {
+     "n": "11",
+     "t": 10.74,
+     "slow": false,
+     "is": "s-rear"
+    }
+   ]
+  },
+  "zach": {
+   "who": "@zdelcampe",
+   "url": "https://www.instagram.com/p/DeqMzWBupZ2/",
+   "name": "the best BMW's",
+   "pace": "14 shots in 20.6 s",
+   "steal": [
+    "Two cars, low sun. The closest match to your day",
+    "Canopy tilt-down opener",
+    "Slow-motion runs through leaves",
+    "0.2 s pedal and shifter inserts"
+   ],
+   "shots": [
+    {
+     "n": "1",
+     "t": 0.07,
+     "slow": false,
+     "is": "s-canopy"
+    },
+    {
+     "n": "2",
+     "t": 3.02,
+     "slow": false,
+     "is": "m-leafrun"
+    },
+    {
+     "n": "4",
+     "t": 6.17,
+     "slow": false,
+     "is": "s-front34"
+    },
+    {
+     "n": "5",
+     "t": 7.67,
+     "slow": false,
+     "is": "g-headon"
+    },
+    {
+     "n": "6",
+     "t": 9.8,
+     "slow": true,
+     "is": "c-pedal"
+    },
+    {
+     "n": "7",
+     "t": 10.1,
+     "slow": true,
+     "is": "c-gear"
+    },
+    {
+     "n": "8",
+     "t": 10.37,
+     "slow": false,
+     "is": "m-leafrun"
+    },
+    {
+     "n": "10",
+     "t": 13.37,
+     "slow": false,
+     "is": "d-broll"
+    },
+    {
+     "n": "11",
+     "t": 14.52,
+     "slow": false,
+     "is": "s-duo"
+    },
+    {
+     "n": "12",
+     "t": 16.02,
+     "slow": false,
+     "is": "g-duo"
+    },
+    {
+     "n": "13",
+     "t": 17.17,
+     "slow": false,
+     "is": "d-light"
+    },
+    {
+     "n": "14",
+     "t": 18.82,
+     "slow": false,
+     "is": "s-rear"
+    }
+   ]
+  },
+  "archie": {
+   "who": "@archie.shutter",
+   "url": "https://www.instagram.com/p/Dff3ecgMHx1/",
+   "name": "Your 1 series isn't this good",
+   "pace": "28 cuts in 25.6 s, posted rotated 90 degrees",
+   "steal": [
+    "One pass-by clip used three times",
+    "Whip pan from a wide to a badge",
+    "Car passing the lens as the cut to black"
+   ],
+   "shots": [
+    {
+     "n": "9",
+     "t": 2.37,
+     "slow": false,
+     "is": "s-rear34"
+    },
+    {
+     "n": "w300",
+     "t": 3.0,
+     "slow": false,
+     "is": "d-whip"
+    },
+    {
+     "n": "10",
+     "t": 3.85,
+     "slow": false,
+     "is": "d-badge"
+    },
+    {
+     "n": "13",
+     "t": 6.49,
+     "slow": false,
+     "is": "d-mirror"
+    },
+    {
+     "n": "14",
+     "t": 7.15,
+     "slow": false,
+     "is": "d-wheel"
+    },
+    {
+     "n": "16",
+     "t": 9.12,
+     "slow": false,
+     "is": "g-blue"
+    },
+    {
+     "n": "17",
+     "t": 9.99,
+     "slow": false,
+     "is": "g-blue"
+    },
+    {
+     "n": "18",
+     "t": 11.02,
+     "slow": false,
+     "is": "s-side"
+    },
+    {
+     "n": "19",
+     "t": 12.67,
+     "slow": false,
+     "is": "m-lane"
+    },
+    {
+     "n": "22",
+     "t": 18.19,
+     "slow": false,
+     "is": "s-headon"
+    },
+    {
+     "n": "27",
+     "t": 23.8,
+     "slow": false,
+     "is": "m-wipe"
+    }
+   ]
+  },
+  "jase": {
+   "who": "@jasevgarage",
+   "url": "https://www.instagram.com/p/DfndThaBDP8/",
+   "name": "DND trend",
+   "pace": "One 6.4 s shot, then a cut every second",
+   "steal": [
+    "6 s locked frame with room for the overlay",
+    "Six details, exactly 1 s each",
+    "Every detail slides slowly"
+   ],
+   "shots": [
+    {
+     "n": "w100",
+     "t": 1.0,
+     "slow": false,
+     "is": "s-plate"
+    },
+    {
+     "n": "3",
+     "t": 7.66,
+     "slow": false,
+     "is": "d-grille"
+    },
+    {
+     "n": "4",
+     "t": 8.66,
+     "slow": false,
+     "is": "d-tail"
+    },
+    {
+     "n": "5",
+     "t": 9.66,
+     "slow": false,
+     "is": "d-line"
+    },
+    {
+     "n": "7",
+     "t": 11.69,
+     "slow": false,
+     "is": "s-side"
+    },
+    {
+     "n": "8",
+     "t": 12.52,
+     "slow": false,
+     "is": "s-duo"
+    }
+   ]
+  },
+  "dc": {
+   "who": "@dcexposures",
+   "url": "https://www.instagram.com/p/De0WxRJNsHJ/",
+   "name": "calm day at the park",
+   "pace": "18 shots in 24 s, whip pans between them",
+   "steal": [
+    "Hard sun, like your day",
+    "Legs on the verge, whip to the car",
+    "Windscreen chase with blurred trees",
+    "Backlit roller"
+   ],
+   "shots": [
+    {
+     "n": "w20",
+     "t": 0.2,
+     "slow": false,
+     "is": "m-legs"
+    },
+    {
+     "n": "3",
+     "t": 2.25,
+     "slow": true,
+     "is": "h-bridge"
+    },
+    {
+     "n": "4",
+     "t": 2.67,
+     "slow": false,
+     "is": "m-chase"
+    },
+    {
+     "n": "5",
+     "t": 5.07,
+     "slow": false,
+     "is": "c-hands"
+    },
+    {
+     "n": "6",
+     "t": 6.47,
+     "slow": false,
+     "is": "h-convoy"
+    },
+    {
+     "n": "7",
+     "t": 8.47,
+     "slow": false,
+     "is": "h-bridge"
+    },
+    {
+     "n": "8",
+     "t": 9.47,
+     "slow": false,
+     "is": "m-chase"
+    },
+    {
+     "n": "9",
+     "t": 11.82,
+     "slow": false,
+     "is": "g-hero"
+    },
+    {
+     "n": "11",
+     "t": 14.77,
+     "slow": false,
+     "is": "s-reveal"
+    },
+    {
+     "n": "15",
+     "t": 17.87,
+     "slow": false,
+     "is": "m-chase"
+    },
+    {
+     "n": "17",
+     "t": 20.32,
+     "slow": false,
+     "is": "c-hands"
+    }
+   ]
+  },
+  "paf": {
+   "who": "@pafleurywk",
+   "url": "https://www.instagram.com/p/Da0jhAmMjHD/",
+   "name": "M3 takeover",
+   "pace": "19 shots in 19.7 s",
+   "steal": [
+    "Five cockpit inserts in 2 s",
+    "A 2 s tease of the best shot",
+    "Wheel cam with half the frame sky"
+   ],
+   "shots": [
+    {
+     "n": "1",
+     "t": 0.0,
+     "slow": true,
+     "is": "c-start"
+    },
+    {
+     "n": "2",
+     "t": 0.37,
+     "slow": true,
+     "is": "c-gear"
+    },
+    {
+     "n": "3",
+     "t": 0.77,
+     "slow": true,
+     "is": "c-cluster"
+    },
+    {
+     "n": "4",
+     "t": 1.2,
+     "slow": true,
+     "is": "c-mode"
+    },
+    {
+     "n": "5",
+     "t": 1.52,
+     "slow": false,
+     "is": "c-cluster"
+    },
+    {
+     "n": "6",
+     "t": 2.17,
+     "slow": true,
+     "is": "d-wheel"
+    },
+    {
+     "n": "8",
+     "t": 4.54,
+     "slow": false,
+     "is": "g-headon"
+    },
+    {
+     "n": "9",
+     "t": 5.52,
+     "slow": false,
+     "is": "m-wheelcam"
+    },
+    {
+     "n": "10",
+     "t": 7.19,
+     "slow": false,
+     "is": "g-headon"
+    },
+    {
+     "n": "11",
+     "t": 8.26,
+     "slow": false,
+     "is": "d-tail"
+    },
+    {
+     "n": "13",
+     "t": 9.65,
+     "slow": false,
+     "is": "m-pan"
+    },
+    {
+     "n": "14",
+     "t": 11.37,
+     "slow": false,
+     "is": "h-wheel"
+    },
+    {
+     "n": "15",
+     "t": 12.93,
+     "slow": true,
+     "is": "c-paddle"
+    },
+    {
+     "n": "17",
+     "t": 14.82,
+     "slow": false,
+     "is": "c-hands"
+    },
+    {
+     "n": "18",
+     "t": 15.82,
+     "slow": false,
+     "is": "g-dust"
+    },
+    {
+     "n": "19",
+     "t": 17.04,
+     "slow": false,
+     "is": "g-dust"
+    }
+   ]
+  },
+  "ramsay": {
+   "who": "@ramsay.visuals",
+   "url": "https://www.instagram.com/p/DeXSwcjxC7B/",
+   "name": "Mercedes at Kulturschock",
+   "pace": "14 held frames of 0.4 to 1 s, posted rotated 90 degrees",
+   "steal": [
+    "Whip blur on every cut",
+    "Black and white wides, colour details",
+    "Details shot square-on"
+   ],
+   "shots": [
+    {
+     "n": "w20",
+     "t": 0.2,
+     "slow": false,
+     "is": "d-whip"
+    },
+    {
+     "n": "2",
+     "t": 0.27,
+     "slow": false,
+     "is": null
+    },
+    {
+     "n": "4",
+     "t": 1.47,
+     "slow": false,
+     "is": "d-grille"
+    },
+    {
+     "n": "13",
+     "t": 5.4,
+     "slow": true,
+     "is": "d-badge"
+    },
+    {
+     "n": "16",
+     "t": 6.87,
+     "slow": true,
+     "is": null
+    },
+    {
+     "n": "18",
+     "t": 7.47,
+     "slow": true,
+     "is": "d-tail"
+    },
+    {
+     "n": "22",
+     "t": 9.17,
+     "slow": true,
+     "is": "s-high"
+    },
+    {
+     "n": "24",
+     "t": 9.87,
+     "slow": false,
+     "is": "d-wheel"
+    }
+   ]
+  }
+ },
+ "skip": [
+  {
+   "what": "Drifts",
+   "why": "Shoot the roadside pan and the dust pull-away instead."
+  },
+  {
+   "what": "Highway roadside pass-bys",
+   "why": "Shoot from a bridge."
+  },
+  {
+   "what": "Stadium and car-meet backdrops",
+   "why": "The framing transfers. The place does not."
+  }
+ ]
+}
